@@ -188,6 +188,7 @@ p {
   flex-direction: column;
   background-color: #f4f4fd;
   margin-top: 120px;
+  padding-bottom: 120px;
 }
 
 .our-team-title {
@@ -226,7 +227,6 @@ p {
   background-color: #2e2f42;
   padding-left: 156px;
   padding-top: 100px;
-  
 }
 
 .footer-section p {
@@ -238,7 +238,6 @@ p {
   color: #f4f4fd;
   width: 264px;
   padding-bottom: 100px;
- 
 }
 
 /* Portofolio START */
@@ -270,7 +269,6 @@ p {
   background: #404bbf;
   color: #fff;
 }
-
 
 .card-section {
   display: flex;
